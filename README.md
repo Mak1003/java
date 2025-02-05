@@ -2,9 +2,9 @@
 Project was to build a expense tracker 
 which includes some specific features
 
-1.total expense for day
+1. total expense for day
 2. total expense for week 
-3total expense for month
+3. total expense for month
 
 all the user data is stored in expense.txt file
 
